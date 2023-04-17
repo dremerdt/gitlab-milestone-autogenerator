@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GMS", "GMS\GMS.csproj", "{7C3DB8BC-AE74-4315-93B4-75EE41D6A4A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GMS.Tests", "GMS.Tests\GMS.Tests.csproj", "{AB259F8A-477F-4117-BB31-0C2491D4503F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C3DB8BC-AE74-4315-93B4-75EE41D6A4A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C3DB8BC-AE74-4315-93B4-75EE41D6A4A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C3DB8BC-AE74-4315-93B4-75EE41D6A4A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C3DB8BC-AE74-4315-93B4-75EE41D6A4A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB259F8A-477F-4117-BB31-0C2491D4503F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB259F8A-477F-4117-BB31-0C2491D4503F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB259F8A-477F-4117-BB31-0C2491D4503F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB259F8A-477F-4117-BB31-0C2491D4503F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
